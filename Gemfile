@@ -5,6 +5,8 @@ gem 'rails', '4.0.0.rc1'
 gem 'thin'
 gem "angular-rails"
 gem 'twitter-bootstrap-rails'
+gem "therubyracer"
+gem "less-rails"
 
 group :development do
 	gem 'sqlite3'
